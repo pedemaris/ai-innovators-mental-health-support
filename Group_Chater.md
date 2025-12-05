@@ -12,7 +12,7 @@ Ethics Review and Risk Assessment
 Reason for Solo Completion: This project was completed indiviudally due to 
 ongoiing health related challenges that impacted my ability to participate 
 consistetly in group meetings and coordination. I chose to move forward
-independently to endsure I could complete the required work without affecting
+independently to ensure I could complete the required work without affecting
 the group negatively.
 
 Communication and Workflow Plan:
