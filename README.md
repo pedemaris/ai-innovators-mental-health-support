@@ -3,14 +3,14 @@ AI Innovators Capstone Project (AAI 101)
 By Paige DeMaris
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **CalmStep** is an AI-assisted emotional support tool designed to help users through *in-the-moment* experiences of panic, overwhelm, or emotional dysregulation. Unlike long-form meditation or mood tracking apps, CalmStep provides fast, accessible grounding activities and gentle guidance that can be used during acute moments of distress.
 
 This project demonstrates how natural language processing and rule-based AI can be implemented responsibly and safely for mental wellbeing support.
 ---
 
-## 👩‍💻 Team Members & Roles
+## Team Members & Roles
 
 **Paige DeMaris**  
 - Concept development  
@@ -21,7 +21,7 @@ This project demonstrates how natural language processing and rule-based AI can 
 
 ---
 
-## 🧠 AI Method & Data Plan
+## AI Method & Data Plan
 
 CalmStep uses a lightweight intent-based NLP chatbot built in Google Dialogflow ES to:
 
@@ -37,7 +37,7 @@ Data plan highlights:
 
 ---
 
-## 📊 Visuals & Logo
+## Visuals & Logo
 
 <img width="685" height="385" alt="image" src="https://github.com/user-attachments/assets/d2cdacdb-fe13-4d3b-92cd-be34ea0c0d45" />
 The logo reflects calm, soothing tones that align with color psychology principles for anxiety relief.
@@ -46,7 +46,7 @@ Additional mockups, UI sketches, and branding visuals are located in the `/media
 
 ---
 
-## 🧩 Ethical Considerations & Market Fit
+## Ethical Considerations & Market Fit
 
 **Privacy & Safety**
 - Clears user expectations
@@ -75,7 +75,7 @@ Most wellness apps focus on *long-term routines* or meditations. CalmStep fills 
 Link in the LMS or Video file in `/video/CalmStep_Pitch.mp4`
 
 
-## 📌 How to Navigate
+## How to Navigate
 
 To explore this project:
 1. Start with **README.md**
@@ -87,7 +87,7 @@ To explore this project:
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Paige DeMaris**  
 CalmStep Project Lead  
