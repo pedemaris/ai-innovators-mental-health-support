@@ -64,17 +64,6 @@ Additional mockups, UI sketches, and branding visuals are located in the `/media
 **Market Opportunity**
 Most wellness apps focus on *long-term routines* or meditations. CalmStep fills a gap by offering *instant support* for users who can’t navigate complex menus while overwhelmed.
 
----
-
-## Slide Deck & Pitch Video
-
-**Slide Deck:**  
-`/slides/CalmStep_Capstone_Final.pdf`
-
-**Pitch Video:**  
-Link in the LMS or Video file in `/video/CalmStep_Pitch.mp4`
-
-
 ## How to Navigate
 
 To explore this project:
