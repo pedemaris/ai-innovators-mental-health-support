@@ -81,9 +81,8 @@ To explore this project:
 1. Start with **README.md**
 2. Review the **final slide deck**
 3. Watch the **pitch video**
-4. Explore the AI logic under `/ai`
-5. Read ethical & market analysis under `/ethics`
-6. See reflections in `/peer_assessments`
+5. Read ethical & market analysis
+6. See reflections
 
 ---
 
@@ -91,4 +90,4 @@ To explore this project:
 
 **Paige DeMaris**  
 CalmStep Project Lead  
-AI Innovators Capstone (AAI 101)
+pedemaris@dmacc.edu
